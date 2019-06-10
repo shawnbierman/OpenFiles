@@ -43,6 +43,7 @@
 		1FE2229E22A5EEC700087949 = {
 			isa = PBXGroup;
 			children = (
+				1F7B8BE822ADEF59008D7C75 /* README.md */,
 				1FE222A922A5EEC700087949 /* OpenFiles */,
 				1FE222A822A5EEC700087949 /* Products */,
 			);
@@ -67,7 +68,6 @@
 				1FE222AE22A5EEC700087949 /* Main.storyboard */,
 				1FE222B322A5EEC900087949 /* LaunchScreen.storyboard */,
 				1FE222B622A5EEC900087949 /* Info.plist */,
-				1F7B8BE822ADEF59008D7C75 /* README.md */,
 			);
 			path = OpenFiles;
 			sourceTree = "<group>";
